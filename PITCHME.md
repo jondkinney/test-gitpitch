@@ -1,5 +1,7 @@
 ---
 ### This code presentation works
+@size[0.8em](Common components can be packaged up to be reused)
+
 ```jsx
 const Layout = ({ children }) => {
   return (
@@ -18,7 +20,6 @@ export default Layout;
 
 ---
 ### This one does not
----
 @size[0.8em](Common components can be packaged up to be reused)
 
 ```jsx
