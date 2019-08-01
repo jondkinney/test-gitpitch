@@ -35,4 +35,4 @@ const Layout = ({ children }) => {
 
 export default Layout;
 ```
-@[4](This breaks when trying to highlight line 4 (or 6 if you try that one) and it jumps the line numbers weird, too. It seems like some of the code isn't being properly escaped or something. If you re-watch the video you will see it there, too.)
+@[4](This breaks when trying to highlight line 4 [or 6 if you try that one] and it jumps the line numbers weird, too. It seems like some of the code isn't being properly escaped or something. If you re-watch the video you will see it there, too.)
